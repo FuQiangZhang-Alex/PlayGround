@@ -1,0 +1,2 @@
+CORBA TRANSIENT 0x4942fe07 No; nested exception is: 
+	org.omg.CORBA.TRANSIENT: initial and forwarded IOR inaccessible  vmcid: IBM  minor code: E07  completed: No

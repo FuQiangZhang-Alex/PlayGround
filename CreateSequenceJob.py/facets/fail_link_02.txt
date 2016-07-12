@@ -1,0 +1,8 @@
+   BEGIN DSRECORD
+      Identifier "V0S1P1"
+      OLEType "CJSActivityInput"
+      Readonly "0"
+      Name "fail"
+      Partner "V0S0|V0S0P1"
+      LinkType "1"
+   END DSRECORD

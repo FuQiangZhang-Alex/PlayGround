@@ -1,0 +1,10 @@
+   BEGIN DSRECORD
+      Identifier "V0S2"
+      OLEType "CJSTerminatorActivity"
+      Readonly "0"
+      Name "{Terminator_PostV_FID_ANNOUNCEMENT_CN_Rule_C1}"
+      NextID "2"
+      InputPins "V0S2P1"
+      TerminationType "0"
+      StageType "CTerminatorActivity"
+   END DSRECORD

@@ -1,0 +1,11 @@
+   BEGIN DSRECORD
+      Identifier "V0S1P2"
+      OLEType "CJSActivityOutput"
+      Readonly "0"
+      Name "terminator"
+      Partner "V0S2|V0S2P1"
+      ConditionType "0"
+      LeftTextPos "624"
+      TopTextPos "96"
+      SourceID "V0S1"
+   END DSRECORD

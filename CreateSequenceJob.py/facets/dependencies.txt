@@ -1,0 +1,4 @@
+      BEGIN DSSUBRECORD
+         Name "{job_name}"
+         Type "0"
+      END DSSUBRECORD

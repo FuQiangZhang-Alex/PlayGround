@@ -1,0 +1,21 @@
+   BEGIN DSRECORD
+      Identifier "V0S1"
+      OLEType "CJSMailActivity"
+      Readonly "0"
+      Name "1{Notification_PostV_FID_ANNOUNCEMENT_CN_Rule_C1}"
+      NextID "3"
+      InputPins "V0S1P1"
+      OutputPins "V0S1P2"
+      TransportType "0"
+      Servername "IBMUS"
+      RecipientAddress "#p_FID.MailList#"
+      SendersAddress "FIDMIG@us.ibm.com"
+      Subject "An error occured in job #2{PostV_FID_ANNOUNCEMENT_CN_Rule_Q1}.$JobName#"
+      Body =+=+=+=
+PLEASE DO NOT RESPONSE TO THIS EMAIL ADDRESS - THIS EMAIL ADDRESS IS JUST USED TO SEND EMAIL MESSAGES.
+
+=+=+=+=
+      IncludeJobReports "1"
+      CheckPoint "0"
+      StageType "CNotificationActivity"
+   END DSRECORD

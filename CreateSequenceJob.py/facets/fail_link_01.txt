@@ -1,0 +1,11 @@
+   BEGIN DSRECORD
+      Identifier "V0S0P1"
+      OLEType "CJSActivityOutput"
+      Readonly "0"
+      Name "fail"
+      Partner "V0S1|V0S1P1"
+      ConditionType "0"
+      LeftTextPos "312"
+      TopTextPos "96"
+      SourceID "V0S0"
+   END DSRECORD

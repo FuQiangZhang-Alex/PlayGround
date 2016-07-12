@@ -1,0 +1,8 @@
+   BEGIN DSRECORD
+      Identifier "V0S2P1"
+      OLEType "CJSActivityInput"
+      Readonly "0"
+      Name "terminator"
+      Partner "V0S1|V0S1P2"
+      LinkType "1"
+   END DSRECORD
