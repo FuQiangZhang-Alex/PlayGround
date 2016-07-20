@@ -1,0 +1,386 @@
+EPL Segment Description	Price Position Description	Seq Num	Screen Id	EPL literal col  7-16	PRICE start column	PRICE end Column	PRICE Decimal Width	Offering Type	Variant Type	Price Type 	New Price Type	US Price Code	Offering name start column	Offering name end Column	Variant name start column	Variant Name end Column	Offering Description start column	Offering Description end column	Variant Description start column	Variant Description end column
+HW Model – Direct Channel	Rental Monthly	1.1	1310	0031B	66	75	2	TYP	MOD	SMC		UNUSED	47	50	52	54			17	46
+HW Model – Direct Channel	Purchase	1.1	1310	0031B	77	87 (88)*	2	TYP	MOD	PUR		PUR	47	50	52	54			17	46
+HW Model – Direct Channel	Rental Monthly	1.1	2310	5201B	73	80	0	TYP	MOD	132	SMC	UNUSED	47	50	52	54			17	46
+HW Model – Direct Channel	Purchase	1.1	2310	5201B	108	116	0	TYP	MOD	PUR		PUR	47	50	52	54			17	46
+HW Model – Distributor/Dealer Channel	Purchase Dealer	1.2	1310	0471B	67	71	0	TYP	MOD	102	PUR	UNKNOWN	54	57	59	61			24	53
+HW Model – Distributor/Dealer Channel	Purchase Dealer	1.2	2310	6001B	67	71	0	TYP	MOD	PUR		UNKNOWN	54	57	59	61			24	53
+HW Features – Direct Channel	Purchase	2.1	1355	0241F	59	69	2	TYP	FEA	PUR		PUR/SUC*	47	50	55	58			17	46
+HW Features – Direct Channel	Rental Monthly	2.1	1355	0241F	115	125	2	TYP	FEA	SMC		REN	47	50	55	58			17	46
+HW Features – Direct Channel	Rental Monthly	2.1	2330	5201F	73	80	0	TYP	FEA	LA1	SMC	REN	47	50	55	58			17	46
+HW Features – Direct Channel	Purchase	2.1	2330	5201F	108	116	0	TYP	FEA	PUR		PUR/SUC*	47	50	55	58			17	46
+HW Feature – Distributor/Dealer Channel	Purchase Dealer	2.2	1330	0481F	72	76	0	TYP	FEA	103	PUR	UNKNOWN	59	62	25	28			29	58
+HW Feature – Distributor/Dealer Channel	Purchase Dealer	2.2	2330	6151F	91	95	0	TYP	FEA	PUR		UNKNOWN	54	57	62	65			24	53
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 24x7 2Hr Annual	3	1329	01815	124	129	0	TYP	MOD	EMK		E2H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 24x7 2Hr Monthly	3	1329	01815	124	129	0	TYP	MOD	EMP		E2H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 24x7 Monthly	3	1329	01815	130	135	0	TYP	MOD	EMF		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 24x7 Annual	3	1329	01815	130	135	0	TYP	MOD	EMG		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Exchange 24x7 Annual	3	1329	01815	130	135	0	TYP	MOD	EMC		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Exchange 9x5 4Hr Annual	3	1329	01815	136	141	0	TYP	MOD	EMN		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Exchange 9x5 4Hr Monthly	3	1329	01815	136	141	0	TYP	MOD	EMT		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 9x5 4Hr Annual	3	1329	01815	136	141	0	TYP	MOD	EMM		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 9x5 4Hr Monthly	3	1329	01815	136	141	0	TYP	MOD	EMS		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Exchange 9x5 Annual	3	1329	01815	142	147	0	TYP	MOD	EME		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Exchange 9x5 Monthly	3	1329	01815	142	147	0	TYP	MOD	EMJ		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 9x5 Annual	3	1329	01815	142	147	0	TYP	MOD	EMD		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA IBM On-Site Repair 9x5 Monthly	3	1329	01815	142	147	0	TYP	MOD	EMH		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA Depot Annual	3	1329	01815	154	159	0	TYP	MOD	EMA		EEZ	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Charge	ESA Depot Monthly	3	1329	01815	154	159	0	TYP	MOD		EMB	EEZ	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Annual	3	2329	54815	130	135	0	TYP	MOD	EMK		E2H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Monthly	3	2329	54815	130	135	0	TYP	MOD	EMP		E2H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Monthly	3	2329	54815	142	147	0	TYP	MOD	EMF		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Annual	3	2329	54815	142	147	0	TYP	MOD	EMG		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Exchange 24x7 Annual	3	2329	54815	142	147	0	TYP	MOD	EMC		E24	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Exchange 9x5 4Hr Annual	3	2329	54815	154	159	0	TYP	MOD	EMN		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Exchange 9x5 4Hr Monthly	3	2329	54815	154	159	0	TYP	MOD	EMT		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Annual	3	2329	54815	154	159	0	TYP	MOD	EMM		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Monthly	3	2329	54815	154	159	0	TYP	MOD	EMS		E4H	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Exchange 9x5 Annual	3	2329	54815	166	171	0	TYP	MOD	EME		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Exchange 9x5 Monthly	3	2329	54815	166	171	0	TYP	MOD	EMJ		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Annual	3	2329	54815	166	171	0	TYP	MOD	EMD		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Monthly	3	2329	54815	166	171	0	TYP	MOD	EMH		E95	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA Depot Annual	3	2329	54815	190	195	0	TYP	MOD	EMA		EEZ	48	51	52	54			66	95
+HW Model – ESA Maintenance Reference Chg	ESA Depot Monthly	3	2329	54815	190	195	0	TYP	MOD		EMB	EEZ	48	51	52	54			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Monthly	4	1344	01816	124	129	0	TYP	FEA	EMP		E2H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Annual	4	1344	01816	124	129	0	TYP	FEA	EMK		E2H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Monthly	4	1344	01816	130	135	0	TYP	FEA	EMF		E24	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Annual	4	1344	01816	130	135	0	TYP	FEA	EMG		E24	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Monthly	4	1344	01816	136	141	0	TYP	FEA	EMS		E4H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Annual	4	1344	01816	136	141	0	TYP	FEA	EMM		E4H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Monthly	4	1344	01816	142	147	0	TYP	FEA	EMH		E95	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Annual	4	1344	01816	142	147	0	TYP	FEA	EMD		E95	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA Depot Monthly	4	1344	01816	154	159	0	TYP	FEA		EMB	EEZ	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA Depot Annual	4	1344	01816	154	159	0	TYP	FEA	EMA		EEZ	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Monthly	4	2344	54816	130	135	0	TYP	FEA	EMP		E2H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 2Hr Annual	4	2344	54816	130	135	0	TYP	FEA	EMK		E2H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Monthly	4	2344	54816	142	147	0	TYP	FEA	EMF		E24	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 24x7 Annual	4	2344	54816	142	147	0	TYP	FEA	EMG		E24	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Monthly	4	2344	54816	154	159	0	TYP	FEA	EMS		E4H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 4Hr Annual	4	2344	54816	154	159	0	TYP	FEA	EMM		E4H	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Monthly	4	2344	54816	166	171	0	TYP	FEA	EMH		E95	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA IBM On-Site Repair 9x5 Annual	4	2344	54816	166	171	0	TYP	FEA	EMD		E95	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA Depot Monthly	4	2344	54816	190	195	0	TYP	FEA		EMB	EEZ	48	51	55	58			66	95
+HW Feature – ESA Maintenance Reference Chg	ESA Depot Annual	4	2344	54816	190	195	0	TYP	FEA	EMA		EEZ	48	51	55	58			66	95
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Monthly	5	1321	0041C	61	66	0	TYP	MOD	300	MUC	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Annual	5	1321	0041C	61	66	0	TYP	MOD	301	AMC	IOR	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Monthly	5	1321	0041C	67	72	0	TYP	MOD	302	MIC	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Annual	5	1321	0041C	67	72	0	TYP	MOD	303	AIC	IO8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	EZ Monthly	5	1321	0041C	73	78	0	TYP	MOD	304	EZM	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	EZ Annual	5	1321	0041C	73	78	0	TYP	MOD	304	EZA	IOE	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Monthly	5	1321	0041C	79	84	0	TYP	MOD	305	BXM	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Annual	5	1321	0041C	79	84	0	TYP	MOD	305	BXA	IE8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Monthly	5	1321	0041C	85	90	0	TYP	MOD	306	BYM	N/A	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Annual	5	1321	0041C	85	90	0	TYP	MOD	306	BYA	N/A	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Monthly	5	1321	0041C	91	96	0	TYP	MOD	307	OXM	CES	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Annual	5	1321	0041C	91	96	0	TYP	MOD	307	OXA	CES	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Monthly	5	1321	0041C	97	102	0	TYP	MOD	308	FMC	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Annual	5	1321	0041C	97	102	0	TYP	MOD	308	FAC	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Monthly	5	1321	0041C	109	114	0	TYP	MOD	309	CRM	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Annual	5	1321	0041C	109	114	0	TYP	MOD	309	CRA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Monthly	5	1321	0041C	115	120	0	TYP	MOD	310	IXM	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Annual	5	1321	0041C	115	120	0	TYP	MOD	310	IXA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Monthly	5	2321	5401C	67	72	0	TYP	MOD	300	MUC	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Annual	5	2321	5401C	67	72	0	TYP	MOD	301	AMC	IOR	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Monthly	5	2321	5401C	79	84	0	TYP	MOD	302	MIC	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Annual	5	2321	5401C	79	84	0	TYP	MOD	303	AIC	IO8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Monthly	5	2321	5401C	91	96	0	TYP	MOD	304	BXM	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Annual	5	2321	5401C	91	96	0	TYP	MOD	304	BXA	IOE	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Monthly	5	2321	5401C	103	108	0	TYP	MOD	305	BYM	MMC	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Annual	5	2321	5401C	103	108	0	TYP	MOD	305	BYA	IE8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Monthly	5	2321	5401C	115	120	0	TYP	MOD	306	FMC	N/A	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Annual	5	2321	5401C	115	120	0	TYP	MOD	306	FAC	N/A	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	EZ Monthly	5	2321	5401C	139	144	0	TYP	MOD	307	EZM	CES	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	EZ Annual	5	2321	5401C	139	144	0	TYP	MOD	307	EZA	CES	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Monthly	5	2321	5401C	151	156	0	TYP	MOD	308	OXM	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Annual	5	2321	5401C	151	156	0	TYP	MOD	308	OXA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Monthly	5	2321	5401C	163	168	0	TYP	MOD	309	CRM	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Annual	5	2321	5401C	163	168	0	TYP	MOD	309	CRA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Monthly	5	2321	5401C	175	180	0	TYP	MOD	310	IXM	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Annual	5	2321	5401C	175	180	0	TYP	MOD	310	IXA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 24x7 Annual	5.1	1321	0251C	59	64	0	TYP	MOD	301	AMC	IOR	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 9x5 Annual	5.1	1321	0251C	65	70	0	TYP	MOD	303	AIC	IO8	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 24x7 Annual	5.1	1321	0251C	71	76	0	TYP	MOD	305	BXA	IOE	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 9x5 Annual	5.1	1321	0251C	77	82	0	TYP	MOD	306	BYA	IE8	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Central Fac Maint (CFM) 24x7 Annual	5.1	1321	0251C	83	88	0	TYP	MOD	308	FAC	CES	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	EZ Annual	5.1	1321	0251C	95	100	0	TYP	MOD	304	EZA	N/A	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer On-Site Exchange (COE) Annual	5.1	1321	0251C	101	106	0	TYP	MOD	307	OXA	UNUSED	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer Carry-In Repair (CCR) Annual	5.1	1321	0251C	107	112	0	TYP	MOD	309	CRA	UNUSED	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer Carry-In Exchange (CCE) Annual	5.1	1321	0251C	113	118	0	TYP	MOD	310	IXA	UNUSED	47	50	51	53			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 24x7 Annual	5.1	2310	5471C	65	70	0	TYP	MOD	301	AMC	IOR	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 9x5 Annual	5.1	2310	5471C	77	82	0	TYP	MOD	303	AIC	IO8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 24x7 Annual	5.1	2310	5471C	89	94	0	TYP	MOD	305	BXA	IOE	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 9x5 Annual	5.1	2310	5471C	101	106	0	TYP	MOD	306	BYA	IE8	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Central Fac Maint (CFM) 24x7 Annual	5.1	2310	5471C	113	118	0	TYP	MOD	308	FAC	CES	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	EZ Annual	5.1	2310	5471C	137	142	0	TYP	MOD	304	EZA	N/A	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer On-Site Exchange (COE) Annual	5.1	2310	5471C	149	154	0	TYP	MOD	307	OXA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer Carry-In Repair (CCR) Annual	5.1	2310	5471C	161	166	0	TYP	MOD	309	CRA	UNUSED	47	50	52	54			17	46
+HW Model – Minimum Maintenance Charge (Low End)	Customer Carry-In Exchange (CCE) Annual	5.1	2310	5471C	173	178	0	TYP	MOD	310	IXA	UNUSED	47	50	52	54			17	46
+HW Model – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Monthly	5.2	1321	9031C	124	129	0	TYP	MOD	204	CFM	CFS	48	51	52	54			66	95
+HW Model – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Annual	5.2	1321	9031C	124	129	0	TYP	MOD	204	CFA	CFS	48	51	52	54			66	95
+HW Model – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Monthly	5.2	2310	9041C	131	136	0	TYP	MOD	205	CFM	CFS	48	51	52	54			66	95
+HW Model – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Annual	5.2	2310	9041C	131	136	0	TYP	MOD	205	CFA	CFS	48	51	52	54			66	95
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Monthly	6	1321	0041G	61	66	0	TYP	FEA	300	MUC	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Annual	6	1321	0041G	61	66	0	TYP	FEA	301	AMC	IOR	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Monthly	6	1321	0041G	67	72	0	TYP	FEA	302	MIC	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Annual	6	1321	0041G	67	72	0	TYP	FEA	303	AIC	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	EZ Monthly	6	1321	0041G	73	78	0	TYP	FEA	304	EZM	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	EZ Annual	6	1321	0041G	73	78	0	TYP	FEA	304	EZA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Monthly	6	1321	0041G	79	84	0	TYP	FEA	305	BXM	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Annual	6	1321	0041G	79	84	0	TYP	FEA	305	BXA	IOE	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Monthly	6	1321	0041G	85	90	0	TYP	FEA	306	BYM	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Annual	6	1321	0041G	85	90	0	TYP	FEA	306	BYA	IE8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Monthly	6	1321	0041G	91	96	0	TYP	FEA	307	OXM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Annual	6	1321	0041G	91	96	0	TYP	FEA	307	OXA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Monthly	6	1321	0041G	97	102	0	TYP	FEA	308	FMC	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Annual	6	1321	0041G	97	102	0	TYP	FEA	308	FAC	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Monthly	6	1321	0041G	109	114	0	TYP	FEA	309	CRM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Annual	6	1321	0041G	109	114	0	TYP	FEA	309	CRA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Monthly	6	1341	0041G	115	120	0	TYP	FEA	310	IXM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Annual	6	1341	0041G	115	120	0	TYP	FEA	310	IXA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Monthly	6	2356	5401G	67	72	0	TYP	FEA	300	MUC	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 24x7 Annual	6	2341	5401G	67	72	0	TYP	FEA	301	AMC	IOR	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Monthly	6	2341	5401G	79	84	0	TYP	FEA	302	MIC	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Repair (IOR) 9x5 Annual	6	2341	5401G	79	84	0	TYP	FEA	303	AIC	IO8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Monthly	6	2341	5401G	91	96	0	TYP	FEA	305	BXM	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 24x7 Annual	6	2341	5401G	91	96	0	TYP	FEA	305	BXA	IOE	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Monthly	6	2341	5401G	103	108	0	TYP	FEA	306	BYM	MMC	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	IBM On-Site Exchange (IOE) 9x5 Annual	6	2341	5401G	103	108	0	TYP	FEA	306	BYA	IE8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Monthly	6	2341	5401G	115	120	0	TYP	FEA	308	FMC	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Central Fac Maint (CFM) 24x7 Annual	6	2341	5401G	115	120	0	TYP	FEA	308	FAC	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	EZ Monthly	6	2341	5401G	139	144	0	TYP	FEA	304	EZM	CES	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	EZ Annual	6	2341	5401G	139	144	0	TYP	FEA	304	EZA	CES	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Monthly	6	2341	5401G	151	156	0	TYP	FEA	307	OXM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer On-Site Exchange (COE) Annual	6	2341	5401G	151	156	0	TYP	FEA	307	OXA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Monthly	6	2341	5401G	163	168	0	TYP	FEA	309	CRM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Repair (CCR) Annual	6	2341	5401G	163	168	0	TYP	FEA	309	CRA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Monthly	6	2341	5401G	175	180	0	TYP	FEA	310	IXM	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge	Customer Carry-In Exchange (CCE) Annual	6	2341	5401G	175	180	0	TYP	FEA	310	IXA	UNUSED	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 24x7 Annual	6.1	1341	0251G	59	64	0	TYP	FEA	090	AMC	IOR	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 9x5 Annual	6.1	1341	0251G	65	70	0	TYP	FEA	091	AIC	IO8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 24x7 Annual	6.1	1341	0251G	71	76	0	TYP	FEA	092	BXA	IOE	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 9x5 Annual	6.1	1341	0251G	77	82	0	TYP	FEA	093	BYA	IE8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Central Fac Maint (CFM) 24x7 Annual	6.1	1341	0251G	83	88	0	TYP	FEA	094	FAC	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	EZ Annual	6.1	1341	0251G	95	100	0	TYP	FEA	095	EZA	CES	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer On-Site Exchange (COE) Annual	6.1	1341	0251G	101	106	0	TYP	FEA	096	OXA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer Carry-In Repair (CCR) Annual	6.1	1341	0251G	107	112	0	TYP	FEA	097	CRA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer Carry-In Exchange (CCE) Annual	6.1	1341	0251G	113	118	0	TYP	FEA	098	IXA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 24x7 Annual	6.1	2341	5471G	65	70	0	TYP	FEA	172	AMC	IOR	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Repair (IOR) 9x5 Annual	6.1	2341	5471G	77	82	0	TYP	FEA	173	AIC	IO8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 24x7 Annual	6.1	2341	5471G	89	94	0	TYP	FEA	174	BXA	IOE	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	IBM On-Site Exchange (IOE) 9x5 Annual	6.1	2341	5471G	101	106	0	TYP	FEA	175	BYA	IE8	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Central Fac Maint (CFM) 24x7 Annual	6.1	2341	5471G	113	118	0	TYP	FEA	176	FAC	CES	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	EZ Annual	6.1	2341	5471G	137	142	0	TYP	FEA	177	EZA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer On-Site Exchange (COE) Annual	6.1	2341	5471G	149	154	0	TYP	FEA	178	OXA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer Carry-In Repair (CCR) Annual	6.1	2341	5471G	161	166	0	TYP	FEA	179	CRA	N/A	47	50	55	58			17	46
+HW Feature – Minimum Maintenance Charge (Low End)	Customer Carry-In Exchange (CCE) Annual	6.1	2341	5471G	173	178	0	TYP	FEA	180	IXA	N/A	47	50	55	58			17	46
+HW Feature – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Monthly	6.2	1341	9091G	124	129	0	TYP	FEA	208		UNUSED	48	51	55	58			66	95
+HW Feature – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Annual	6.2	1341	9091G	124	129	0	TYP	FEA	208		UNUSED	48	51	55	58			66	95
+HW Feature – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Monthly	6.2	2341	9101G	131	136	0	TYP	FEA	209	208	UNUSED	48	51	55	58			66	95
+HW Feature – Min Maint Charge CFMS8	Central Fac Maint (CFM) 9x5 Annual	6.2	2341	9101G	131	136	0	TYP	FEA	209	208	UNUSED	48	51	55	58			66	95
+HW Model – ESA Warranty Upgrade Charges	ESA War Serv Upg 24x7 2Hr	7	1325	01117	124	129	0	TYP	MOD	001	WU2	W2H	48	51	52	54			66	95
+HW Model – ESA Warranty Upgrade Charge	ESA War Serv Upg 24x7	7	1325	01117	130	135	0	TYP	MOD	WU1		W24	48	51	52	54			66	95
+HW Model – ESA Warranty Upgrade Charge	ESA War Serv Upg 9x5 4Hr	7	1325	01117	136	141	0	TYP	MOD	002	WU4	W4H	48	51	52	54			66	95
+HW Model – ESA Warranty Upgrade Charge	ESA War Serv Upg 9x5 NBD	7	1325	01117	142	147	0	TYP	MOD	003	WU3	W95	48	51	52	54			66	95
+HW Model – ESA Warranty Upgrade Chg	ESA War Serv Upg 24x7 2Hr	7	2325	54617	80	85	0	TYP	MOD	024	WU2	W2H	25	28	29	31			43	72
+HW Model – ESA Warranty Upgrade Chg	ESA War Serv Upg 24x7	7	2325	54617	92	97	0	TYP	MOD	WU1		W24	25	28	29	31			43	72
+HW Model – ESA Warranty Upgrade Chg	ESA War Serv Upg 9x5 4Hr	7	2325	54617	104	109	0	TYP	MOD	026	WU4	W4H	25	28	29	31			43	72
+HW Model – ESA Warranty Upgrade Chg	ESA War Serv Upg 9x5 NBD	7	2325	54617	116	121	0	TYP	MOD	027	WU3	W95	25	28	29	31			43	72
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 24x7	8	1322	0121D	69	74	0	TYP	MOD	059		IOR	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 9x5	8	1322	0121D	75	80	0	TYP	MOD	060		IO8	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 24X7	8	1322	0121D	81	86	0	TYP	MOD	061		IOE	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 9x5	8	1322	0121D	87	92	0	TYP	MOD	062		IE8	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Central Fac Maint (CFM) 24x7	8	1322	0121D	93	98	0	TYP	MOD	063		N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to EZ Serve	8	1322	0121D	105	110	0	TYP	MOD	064		N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer On-Site Exchange	8	1322	0121D	111	116	0	TYP	MOD	065		N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer Carry-In Repair	8	1322	0121D	117	122	0	TYP	MOD	066		N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer Carry-In Exchange	8	1322	0121D	123	128	0	TYP	MOD	067		N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 24x7	8	2322	5451D	65	70	0	TYP	MOD	152	059	IOR	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 9x5	8	2322	5451D	77	82	0	TYP	MOD	153	060	IO8	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 24X7	8	2322	5451D	89	94	0	TYP	MOD	154	061	IOE	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 9x5	8	2322	5451D	101	106	0	TYP	MOD	155	062	IE8	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Central Fac Maint (CFM) 24x7	8	2322	5451D	113	118	0	TYP	MOD	156	063	N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to EZ Serve	8	2322	5451D	137	142	0	TYP	MOD	157	064	N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer On-Site Exchange	8	2322	5451D	149	154	0	TYP	MOD	158	065	N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer Carry-In Repair	8	2322	5451D	161	166	0	TYP	MOD	159	066	N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Charge	War Upg to Customer Carry-In Exchange	8	2322	5451D	173	178	0	TYP	MOD	160	067	N/A	47	50	52	54			17	46
+HW Model – Low End Alt. Service Chg CFMS8	War Upg to Central Fac Maint (CFM) 9x5	8.1	1322	9051D	124	129	0	TYP	MOD	206		UNKNOWN	48	51	52	54			66	95
+HW Model – Low End Alt. Service Chg CFMS8	War Upg to Central Fac Maint (CFM) 9x5	8.1	2322	9061D	130	135	0	TYP	MOD	207	206	UNKNOWN	48	51	52	54			66	95
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 24x7	9	1342	0121H	69	74	0	TYP	FEA	068	059	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 9x5	9	1342	0121H	75	80	0	TYP	FEA	069	060	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 24X7	9	1342	0121H	81	86	0	TYP	FEA	070	061	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 9x5	9	1342	0121H	87	92	0	TYP	FEA	071	062	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Central Fac Maint (CFM) 24x7	9	1342	0121H	93	98	0	TYP	FEA	072	063	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to EZ Serve	9	1342	0121H	105	110	0	TYP	FEA	073	064	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer On-Site Exchange	9	1342	0121H	111	116	0	TYP	FEA	074	065	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer Carry-In Repair	9	1342	0121H	117	122	0	TYP	FEA	075	066	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer Carry-In Exchange	9	1342	0121H	123	128	0	TYP	FEA	076	067	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 24x7	9	2342	5451H	65	70	0	TYP	FEA	161	059	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Repair (IOR) 9x5	9	2342	5451H	77	82	0	TYP	FEA	162	060	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 24X7	9	2342	5451H	89	94	0	TYP	FEA	163	061	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to IBM On-Site Exchange (IOE) 9x5	9	2342	5451H	101	106	0	TYP	FEA	164	062	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Central Fac Maint (CFM) 24x7	9	2342	5451H	113	118	0	TYP	FEA	165	063	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to EZ Serve	9	2342	5451H	137	142	0	TYP	FEA	166	064	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer On-Site Exchange	9	2342	5451H	149	154	0	TYP	FEA	167	065	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer Carry-In Repair	9	2342	5451H	161	166	0	TYP	FEA	168	066	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Charge	War Upg to Customer Carry-In Exchange	9	2342	5451H	173	178	0	TYP	FEA	169	067	UNUSED	47	50	55	58			17	46
+HW Feature – Low End Alt. Service Chg CFMS8	War Upg to Central Fac Maint (CFM) 9x5	9.1	1342	9111H	124	129	0	TYP	FEA	210	206	UNKNOWN	48	51	55	58			66	95
+HW Feature – Low End Alt. Service Chg CFMS8	War Upg to Central Fac Maint (CFM) 9x5	9.1	2342	9121H	131	136	0	TYP	FEA	211	206	UNKNOWN	48	51	55	58			66	95
+HW Model – Package Charge	ESA War Opt to IOR 24x7 SD 3Yrs	10	1326	01517	124	129	0	TYP	MOD	004	W73	W73	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 1Yr	10	1326	01517	130	135	0	TYP	MOD	005	W01	W01	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 2Yr	10	1326	01517	136	141	0	TYP	MOD	006	W02	W02	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 3Yr	10	1326	01517	142	147	0	TYP	MOD	007	W03	W03	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 4Yr	10	1326	01517	148	153	0	TYP	MOD	008		N/A	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 5Yr	10	1326	01517	154	159	0	TYP	MOD	009		N/A	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to EZServ Depot 2Yr	10	1326	01517	160	165	0	TYP	MOD	010		N/A	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to EZServ Depot 3Yr	10	1326	01517	166	171	0	TYP	MOD	011		UNUSED	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to EZServ Depot 4Yr	10	1326	01517	172	177	0	TYP	MOD	012		N/A	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to EZServ Depot 5Yr	10	1326	01517	178	183	0	TYP	MOD	013		N/A	48	51	52	54			66	95
+HW Model – Package Charge	ESA War Opt to IOR 24x7 SD 3Yrs	10	2326	55117	80	85	0	TYP	MOD	038	W73	W73	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 1Yr	10	2326	55117	92	97	0	TYP	MOD	039	W01	W01	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 2Yr	10	2326	55117	104	109	0	TYP	MOD	040	W02	W02	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 3Yr	10	2326	55117	116	121	0	TYP	MOD	041	W03	W03	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 4Yr	10	2326	55117	128	133	0	TYP	MOD	042	008	N/A	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to IOR 9x5 NBD 5Yr	10	2326	55117	140	145	0	TYP	MOD	043	009	N/A	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to EZServ Depot 2Yr	10	2326	55117	152	157	0	TYP	MOD	044	010	N/A	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to EZServ Depot 3Yr	10	2326	55117	164	169	0	TYP	MOD	045	011	UNUSED	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to EZServ Depot 4Yr	10	2326	55117	176	181	0	TYP	MOD	046	012	N/A	25	28	29	31			43	72
+HW Model – Package Charge	ESA War Opt to EZServ Depot 5Yr	10	2326	55117	188	193	0	TYP	MOD	047	013	N/A	25	28	29	31			43	72
+HW Model – ESA Monthly Usage Charge	ESA Usage (Click) Chg	11	1324	0141E	82	88	5	TYP	MOD	079		UNUSED	47	50	52	54			17	46
+HW Model – ESA Monthly Usage Charge	ESA Usage (Click) Chg	11	2324	5421E	89	95	5	TYP	MOD	150	079	UNUSED	47	50	52	54			17	46
+HW Feature – ESA Monthly Usage Charge	ESA Usage (Click) Chg	12	1346	0141I	82	88	5	TYP	FEA	080	079	UNUSED	47	50	55	58			17	46
+HW Feature – ESA Monthly Usage Charge	ESA Usage (Click) Chg	12	2346	5421I	89	95	5	TYP	FEA	151	079	UNUSED	47	50	55	58			17	46
+HW Model – High End Monthly Usage Charge	IBM Usage (Click) Chg	13	1323	0131E	75	81	5	TYP	MOD	077		UNUSED	47	50	52	54			17	46
+HW Model – High End Monthly Usage Charge	IBM Usage (Click) Chg	13	2323	5411E	82	88	5	TYP	MOD	148	077	UNUSED	47	50	52	54			17	46
+HW Feature – High End Monthly Usage Charge	IBM Usage (Click) Chg	14	1343	0131I	75	81	5	TYP	FEA	078	077	UNUSED	47	50	55	58			17	46
+HW Feature – High End Monthly Usage Charge	IBM Usage (Click) Chg	14	2343	5411I	82	88	5	TYP	FEA	149	077	UNUSED	47	50	55	58			17	46
+HW Field Removal/Installation	Purchase-Plant Install	15	1350	0201J	59	67	2	TYP	FEA	082	PUR	N/A	47	50	55	58			17	46
+HW Field Removal/Installation	Purchase-Field Install	15	1350	0201J	68	76	2	TYP	FEA	MEA		MES	47	50	55	58			17	46
+HW Field Removal/Installation	Purchase-Field Remove	15	1350	0201J	77	85	2	TYP	FEA	084		UNUSED	47	50	55	58			17	46
+HW Field Removal/Installation	Purchase-Field Remove	15	2350	5241J	76	84	2	TYP	FEA	134	084	UNUSED	17	20	24	27			37	66
+HW Field Removal/Installation	Purchase-Field Install	15	2350	5241J	94	102	2	TYP	FEA	135	MEA	MES	17	20	24	27			37	66
+HW Field Removal/Installation	Purchase-Plant Install	15	2350	5241J	112	120	2	TYP	FEA	136	PUR	N/A	17	20	24	27			37	66
+HW Model Conversions/MES Upgrades	MES	17	1360	0211K	45	55	2	TYP	See Note (1)	MES		PUR	17	20	See Note (1)	See Note (1)			See Note (3)	See Note (3)
+HW Model Conversions/MES Upgrades	MES	17	2360	5301K	41	47	0	TYP	See Note (1)	MES		PUR	17	20	See Note (1)	See Note (1)			See Note (3)	See Note (3)
+HW Feature Conversion	MES	18	1370	0191L	67	75	0	TYP	See Note (5)	MES		PUR	47	50	See Note(5)	See Note (5)			17	44
+HW Feature Conversion	MES	18	2370	5231L	70	78	0	TYP	See Note(4)	MES		PUR	47	50	See Note (4)	See Note (4)			17	44
+HW Accessories	Purchase	19	1380	0191M	67	75	0	TYP	MOD	PUR		PUR	59	62	64	66			17	44
+HW Accessories	Purchase-Price per Foot	19	1380	0191M	76	84	0	TYP	MOD	081		UNUSED	59	62	64	66			17	44
+HW Accessories	Purchase	19	2380	5231M	70	78	0	PNU		PUR		PUR	52	58			17	44
+HW Accessories	Purchase-Price per Foot	19	2380	5231M	88	96	0	PNU		133	081	UNUSED	52	58			17	44
+HW – FRUs	Purchase	20	1385	1371N	53	61	0	PNU	N/A	126	PUR	UNKNOWN	45	51	N/A	N/A	17	44	N/A	N/A
+HW – FRUs	Purchase Dealer	20	1385	1371N	62	70	0	PNU	N/A	127		UNKNOWN	45	51	N/A	N/A	17	44	N/A	N/A
+HW – FRUs	Purchase Exchange Price	20	1385	1371N	71	79	0	PNU	N/A	128		UNKNOWN	45	51	N/A	N/A	17	44	N/A	N/A
+HW – FRUs	Purchase	20	2385	8071N	34	42	0	PNU	N/A	PUR		PUR	17	23	N/A	N/A	79	106	N/A	N/A
+HW – FRUs	Purchase Dealer	20	2385	8071N	52	60	0	PNU	N/A	202	127	N/A	17	23	N/A	N/A	79	106	N/A	N/A
+HW – FRUs	Purchase Exchange Price	20	2385	8071N	70	78	0	PNU	N/A	203	128	N/A	17	23	N/A	N/A	79	106	N/A	N/A
+HW Publications – Direct	Purchase	21	1390	0231O	67	75	2	PNU	N/A	PUR		PUR	59	65	N/A	N/A	17	44	N/A	N/A
+HW Publications – Direct	Purchase	21	2390	5491O	61	67	2	PNU	N/A	181	PUR	UNKNOWN	17	23	N/A	N/A	24	51	N/A	N/A
+ICA SW S/390 Platform OTC		30.1	1412	1141P	69	77	0	PID	SWF	106	OTC, LIC	UNUSED	19	25	65	68	26	53	236	255
+ICA SW S/390 Platform OTC		30.1	1412	1141P	82	90	0	PID	SWF	107	ODC, LIC	UNUSED	19	25	78	81	26	53	236	255
+ICA SW S/390 Platform OTC		30.1	2412	5701P	77	85	0	PID	SWF	OTC, LIC		UNUSED	17,22	20,24	25	28	33	62	110	129
+ICA SW S/390 Platform OTC		30.1	2412	5701P	99	107	0	PID	SWF	ODC, LIC		UNUSED	17,22	20,24	29	32	33	62	110	129
+ICA SW S/390 Platform MLC		30.2	1411	1161P	69	77	0	PID	SWF	MLC, LIC		UNUSED	19	25	65	68	26	53	236	255
+ICA SW S/390 Platform MLC		30.2	1411	1161P	82	90	0	PID	SWF	HDC, LIC		UNUSED	19	25	78	81	26	53	236	255
+ICA SW S/390 Platform MLC (See Note (2))		30.2	2411	5711P	77	85	0	PID	SWF	MLC, LIC		UNUSED	17,22	20,24	25	28	33	62	110	129
+ICA SW S/390 Platform MLC (See Note (2))		30.2	2411	5711P	99	107	0	PID	SWF	HDC, LIC		UNUSED	17,22	20,24	29	32	33	62	110	129
+ICA SW – S/390 – PSLC		30.3	1420	1091Q	96	194	2	PID	SWF	MLC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+ICA SW – S/390 – PSLC		30.3	2420	5601Q	100	110	2	PID	SWF	184	MLC, LIC	UNUSED	17,22	20,24	25	28	37	64	181	200
+ICA SW – S/390 – MULC		30.4	1460	1091R	96	104	2	PID	SWF	LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+ICA SW – S/390 – MULC		30.4	2430	5601R	100	110	2	PID	SWF	185	LIC	UNUSED	17,22	20,24	25	28	37	66	181	200
+ICA SW AS/400 Platform VVC		31.1	144C	1131S	97	103	0	PID	SWF	OTC, LIC		UNUSED	77,82	80,84	85	88	17	44	45	64
+ICA SW AS/400 Platform VVC		31.1	244C	5751S	81	91	2	PID	SWF	OTC, LIC		UNUSED	17,22	20,24	29	32	37	66	114	133
+ICA SW AS/400 Platform VVC		31.1	244C	5751S	103	113	2	PID	SWF	ODC, LIC		UNUSED	17,22	20,24	33	36	37	66	114	133
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	69	77	0	PID	SWF	OTC, LIC		UNUSED	19	25	65	68	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	82	90	0	PID	SWF	ODC, LIC		UNUSED	19	25	78	81	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	98	106	0	PID	SWF	OTC, LIC		UNUSED	19	25	94	97	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	111	119	0	PID	SWF	ODC, LIC		UNUSED	19	25	107	110	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	127	135	0	PID	SWF	OTC, LIC		UNUSED	19	25	123	126	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	140	148	0	PID	SWF	ODC, LIC		UNUSED	19	25	136	139	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	156	164	0	PID	SWF	OTC, LIC		UNUSED	19	25	152	155	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	169	177	0	PID	SWF	ODC, LIC		UNUSED	19	25	165	168	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	185	193	0	PID	SWF	OTC, LIC		UNUSED	19	25	181	184	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	198	206	0	PID	SWF	ODC, LIC		UNUSED	19	25	194	197	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	214	222	0	PID	SWF	OTC, LIC		UNUSED	19	25	210	213	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144A	1141S	227	235	0	PID	SWF	ODC, LIC		UNUSED	19	25	223	226	26	53	236	255
+ICA SW AS/400 Platform OTC		31.2	144C	5701S	77	87	2	PID	SWF	195		UNUSED	17,22	20,24	25	28	33	62	110	129
+ICA SW AS/400 Platform OTC		31.2	144C	5701S	99	109	2	PID	SWF	196		UNUSED	17,22	20,24	29	32	33	62	110	129
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	66	74	0	PID	SWF	OTC, LIC		UNUSED	19	25	62	65	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	79	87	0	PID	SWF	ODC, LIC		UNUSED	19	25	75	78	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	95	103	0	PID	SWF	OTC, LIC		UNUSED	19	25	91	94	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	108	116	0	PID	SWF	ODC, LIC		UNUSED	19	25	104	107	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	124	132	0	PID	SWF	OTC, LIC		UNUSED	19	25	120	123	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	137	145	0	PID	SWF	ODC, LIC		UNUSED	19	25	133	136	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	153	161	0	PID	SWF	OTC, LIC		UNUSED	19	25	149	152	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	166	174	0	PID	SWF	ODC, LIC		UNUSED	19	25	162	165	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	182	190	0	PID	SWF	OTC, LIC		UNUSED	19	25	178	181	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	144B	1181S	195	203	0	PID	SWF	ODC, LIC		UNUSED	19	25	191	194	26	53	233	252
+ICA SW AS/400 Platform GGC		31.3	244B	5661S	72	80	0	PID	SWF	OTC, LIC		UNUSED	17,22	20,24	25	28	33	62	99	118
+ICA SW AS/400 Platform GGC		31.3	244B	5661S	90	98	0	PID	SWF	ALC, LIC		UNUSED	17,22	20,24	29	32	33	62	99	118
+ICA SW RS/6000 Platform VVC		32.1	145C	1131T	97	105	2	PID	SWF	105		UNUSED	77,82	80,84	85	88	17	44	45	64
+ICA SW RS/6000 Platform VVC		32.1	245C	5751T	81	91	2	PID	SWF	199		UNUSED	17,22	20,24	29	32	37	66	114	133
+ICA SW RS/6000 Platform VVC		32.1	245C	5751T	103	113	2	PID	SWF	200		UNUSED	17,22	20,24	33	36	37	66	114	133
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	69	77	0	PID	SWF	108		UNUSED	19	25	65	68	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	82	90	0	PID	SWF	109		UNUSED	19	25	78	81	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	98	106	0	PID	SWF	110		UNUSED	19	25	94	97	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	111	119	0	PID	SWF	111		UNUSED	19	25	107	110	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	127	135	0	PID	SWF	112		UNUSED	19	25	123	126	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	140	148	0	PID	SWF	113		UNUSED	19	25	136	139	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	156	164	0	PID	SWF	114		UNUSED	19	25	152	155	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	169	177	0	PID	SWF	115		UNUSED	19	25	165	168	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	185	193	0	PID	SWF	116		UNUSED	19	25	181	184	26	53	236	255
+ICA SW RS/6000 Platform VVC		32.2	145C	1141T	198	206	0	PID	SWF	117		UNUSED	19	25	194	197	26	53	236	255
+ICA SW RS/6000 Platform OTC		32.2	245C	5701T	77	87	2	PID	SWF	197		UNUSED	17,22	20,24	25	28	33	62	110	129
+ICA SW RS/6000 Platform OTC		32.2	245C	5701T	99	109	2	PID	SWF	198		UNUSED	17,22	20,24	29	32	33	62	110	129
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	66	74	0	PID	SWF	118		UNUSED	19	25	62	65	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	79	87	0	PID	SWF	119		UNUSED	19	25	75	78	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	95	103	0	PID	SWF	120		UNUSED	19	25	91	94	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	108	116	0	PID	SWF	121		UNUSED	19	25	104	107	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	124	132	0	PID	SWF	122		UNUSED	19	25	120	123	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	137	145	0	PID	SWF	123		UNUSED	19	25	133	136	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	153	161	0	PID	SWF	124		UNUSED	19	25	149	152	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	145B	1181T	166	174	0	PID	SWF	125		UNUSED	19	25	162	165	26	53	233	252
+ICA SW RS/6000 Platform GGC		32.3	245B	5661T	72	80	0	PID	SWF	193		UNUSED	17,22	20,24	25	28	33	62	99	118
+ICA SW RS/6000 Platform GGC		32.3	245B	5661T	90	98	0	PID	SWF	194		UNUSED	17,22	20,24	29	32	33	62	99	118
+SW Industry Solutions Workstations		33	1460	1121U	98	106	2	PID	SWF	104		UNUSED	72,77	75,79	80	83	17	44	45	64
+SW Industry Solutions Workstations-PLC		33	1460	1401U	96	104	2	PID	SWF	OTC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW Industry Solutions Workstations-ALC/YLC/ILC		33	????	1421U	96	104	2	PID	SWF	129		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW Industry Solutions Workstations		33	2460	5601U	78	88	2	PID	SWF	OTC, LIC		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Workstations		33	2460	5601U	122	132	2	PID	SWF	186		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Workstations		33	2460	5601U	144	154	2	PID	SWF	ALC, LIC		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Workstations		33	2460	5601U	166	176	2	PID	SWF	OTC, LIC		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Hosts		34	1470	1091V	96	104	2	PID	SWF	MLC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW Industry Solutions Workstations-PLC		34	1470	1401V	96	104	2	PID	SWF	MLC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW Industry Solutions Workstations-ALC/YLC/ILC		34	????	1421V	96	104	2	PID	SWF	130		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW Industry Solutions Hosts		34	2470	5601V	78	88	2	PID	SWF	187		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Hosts		34	2470	5601V	100	110	2	PID	SWF	188		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW Industry Solutions Hosts		34	2470	5601V	144	154	2	PID	SWF	189		UNUSED	17,22	20,24	25	28	37	66	181	200
+SW – Non-Graduated Charges – Basic OTC	Base OTC	35	1480	0301W	57	65	0	PID	SWF	OTC, LIC		LIC	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	DSLO OTC	35	1480	0301W	66	74	0	PID	SWF	ODC, LIC		N/A	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	Base Upgrade	35	1480	0301W	75	83	0	PID	SWF	OTC, LIC		LIC	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	DSLO Upgrade	35	1480	0301W	84	92	0	PID	SWF	ODC, LIC		N/A	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	Base Monthly	35	1480	0301W	111	119	0	PID	SWF	MLC, LIC		LIC	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	DSLO Monthly	35	1480	0301W	120	128	0	PID	SWF	HDC, LIC		N/A	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic OTC	Base Annual	35	1480	0301W	129	137	0	PID	SWF	ALC, LIC		LIC	17,22	20,24	25	28			29	56
+SW – Non-Graduated Charges – Basic MLC	Base OTC	35	2480	5551W	70	80	2	PID	SWF	OTC, LIC		LIC	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	DSLO OTC	35	2480	5551W	92	102	2	PID	SWF	ODC, LIC		N/A	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	Base Monthly	35	2480	5551W	114	124	2	PID	SWF	MLC, LIC		LIC	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	DSLO Monthly	35	2480	5551W	136	146	2	PID	SWF	HDC, LIC		N/A	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	Base Upgrade	35	2480	5551W	158	168	2	PID	SWF	OTC, LIC		LIC	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	DSLO Upgrade	35	2480	5551W	180	190	2	PID	SWF	ODC, LIC		N/A	17,22	20,24	25	28			29	58
+SW – Non-Graduated Charges – Basic MLC	Base Annual	35	2480	5551W	202	212	2	PID	SWF	ALC, LIC		LIC	17,22	20,24	25	28			29	58
+SW – User Based – Tiers		36	1490	1081X	96	104	2	PID	SWF	OTC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW – User Based – Tiers MLC		36	????	1091X	96	104	2	PID	SWF	OTC, LIC		UNUSED	76,81	79,83	84	87	17	44	45	64
+SW – User Based – Tiers CSTU		36	????	1131X	97	105	2	PID	SWF	OTC, LIC		UNUSED	77,82	80,84	85	88	17	44	45	64
+SW – User Based – Tiers		36	2490	5601X	78	88	2	PID	SWF	190	OTC, LIC	UNUSED	17,22	20,24	25	28	37	66	181	200
+SW – User Based – Tiers		36	2490	5601X	100	110	2	PID	SWF	191	OTC, LIC	UNUSED	17,22	20,24	25	28	37	66	181	200
+SW – User Based – Tiers		36	2490	5601X	166	176	2	PID	SWF	192	OTC, LIC	UNUSED	17,22	20,24	25	28	37	66	181	200
+PLA Software	Base OTC	37	1501	0271Z	94	102	0	PID	SWF	OTC, LIC		LIC	17,22	20,24	53	56	25	52	64	93
+PLA Software	Base Upgrade	37	1501	0271Z	103	111	0	PID	SWF	OTC, LIC		LIC	17,22	20,24	53	56	25	52	64	93
+PLA Software		37	1501	0271Z	112	120	0	PID	SWF	099		N/A	17,22	20,24	53	56	25	52	64	93
+PLA Software		37	1501	0271Z	121	129	0	PID	SWF	100		N/A	17,22	20,24	53	56	25	52	64	93
+PLA Software	Base OTC	37	2501	5501Z	88	96	0	PID	SWF	OTC, LIC		LIC	17,22	20,24	45	48	25	44	49	78
+PLA Software	Base Upgrade	37	2501	5501Z	106	114	0	PID	SWF	OTC, LIC		N/A	17,22	20,24	45	48	25	44	49	78
+PLA Software Advantage Charges		38	1510	08014	124	131	2	PID	SWF	OTC, LIC		UNUSED	48	54	55	58			66	95
+PLA Software Advantage Charges		38	2510	55214	132	139	2	PID	SWF	OTC, LIC		UNUSED	48	54	55	58			66	95
+PLA Software Publications		39	14A0	0291Y	66	74	2	PNU	N/A	101		UNUSED	59	65	N/A	N/A	17	46	N/A	N/A
+PLA SW Publications		39	24A0	5791Y	61	67	2	PNU	N/A	201	101	UNUSED	17	23	N/A	N/A	24	53	N/A	N/A
